@@ -32,7 +32,7 @@ cd Image-to-pdf
 4. Open the web browser to preview the application.
 
 ## 📸 Screenshot
-![Preview Image](link-to-your-screenshot)
+![Preview Image](Monica_2025-03-23_12-41-52.png)
 
 ## 🚀 How to Use
 
